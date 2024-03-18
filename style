@@ -1,0 +1,13 @@
+#diffFont{
+    font-family:Arial;
+}
+#diffColor{
+    color: blueviolet;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, #C0601B, #AE5719, #9C4E16, #8B4514,#793C11,#67330F)
+}
+main{
+        color:white;
+}
