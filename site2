@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><p>you got bamboozled</p></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://i.imgflip.com/2f5a9w.jpg"></a>
+    <p><a href="mailto:zajecia@gmail.com">Tell us about your expiriance</a></p>
+    <button>click click</button>
+    <p><em><q> Life is Brutal and full of fizykas </q></em> <sub><em>Z. Szklarski</em></sub></p>
+    <p>juuuuu<sup>piiiiiiiiiiii</sup></p>
+
+</body>
